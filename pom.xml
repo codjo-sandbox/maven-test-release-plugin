@@ -8,11 +8,11 @@
     <parent>
         <groupId>net.codjo.pom</groupId>
         <artifactId>codjo-pom-plugin</artifactId>
-        <version>3.0-RC5</version>
+        <version>3.0-RC6</version>
     </parent>
     <groupId>net.codjo.maven.mojo</groupId>
     <artifactId>maven-test-release-plugin</artifactId>
-    <version>2.0-RC2-SNAPSHOT</version>
+    <version>2.0-RC3</version>
     <dependencies>
         <!--Codjo-->
         <dependency>
